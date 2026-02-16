@@ -4,6 +4,29 @@
 ## 2026年1月17日
 身份证领取凭证放在电瓶车坐垫下面，晚上刮大风把电瓶车吹倒了，储物盒里的东西洒落一地，凭证吹不见了。
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmx0cXRnajF1dmFxdWNmYWphdGRrOG91bHMwMXBpaXdidjYzams1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRk3GLfzduq1NtfGt5/giphy.gif)
+## 2025年12月29日
+~~看到V社要发布的Steam Machine很眼馋🤤，想要在客厅连电视打游戏🎮
+我刚好有一台闲置的游戏本，配置如下：~~
+~~- CPU：AMD Ryzen 5 3550H + Vega 8~~
+~~- GPU：AMD RX 560X~~
+~~- 内存：英睿达 ddr4 2666 8g * 2~~
+~~- 硬盘：只有一块sata协议的240g固态~~
+~~老古董配置，玩玩小游戏不成问题。~~
+~~我这AMD农家乐因该是Linux友好吧？~~
+~~从下午两点一直折腾到晚上九点：~~
+~~- ❌SteamOS：锁nvme，改脚本装上了，不显示桌面，可以进tty~~
+~~- ❌Bazzite：不显示桌面，尝试先装fedroa，也不显示桌面，可以进tty，不能用Ventoy~~
+~~- ❌ChimeraOS：安装过程死机，不能用Ventoy~~
+~~- ❌SteamFork：发现项目停止维护，懒得弄了，不能用Ventoy~~
+~~- ⭕Ubuntu + xfce4 + Steam：用笔记本屏幕测试了双人成行，1080p，其他默认，二三十帧？卡卡的，没法玩~~
+~~- ✔Windows 10 ltsc + Steam：测试双人成行，接电视，4k全高，十来帧（4g显存你想怎样🤔）1080p，全高，我琢磨着稳定在50帧吧，能玩🎮~~
+~~意料之中，这双显卡在Linux上难搞。以前这电脑装Linux，各发行版，只有Ubuntu能开箱即用，能调用独显，V社的魔改Wine应该是很强的，可惜我的硬件不兼容😭~~
+---
+电视装Steam Link配合台式机效果出奇！
+关闭电脑屏幕的方法（B站大佬多）：
+- 关闭显示器自动切换输入源
+- 显示器切换没有输入信号的源
+显示器就显示无信号自动待机了🎉🎉🎉
 ## 2025年12月25日
 ![](https://imgbed.13061556.xyz/file/suisuinian/1771243444172_steam2025.png)
 ## 2025年10月14日
