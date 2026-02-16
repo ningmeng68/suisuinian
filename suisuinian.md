@@ -4,6 +4,17 @@
 ## 2026年1月17日
 身份证领取凭证放在电瓶车坐垫下面，晚上刮大风把电瓶车吹倒了，储物盒里的东西洒落一地，凭证吹不见了。
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmx0cXRnajF1dmFxdWNmYWphdGRrOG91bHMwMXBpaXdidjYzams1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRk3GLfzduq1NtfGt5/giphy.gif)
+## 2026年1月3日
+UPS到了，装上，测试好了。
+2分钟内市电恢复，无法触发来电自启也复现了。
+BK650M2的说明书上确实说了，会有一个1分钟左右的延迟关机。
+![](https://imgbed.13061556.xyz/file/suisuinian/1771244695806_ups.jpg)
+![](https://imgbed.13061556.xyz/file/suisuinian/1771244698688_nasqjf.jpg)
+## 2026年1月1日
+半夜三更停电了🙃
+于是我就下单了放在购物车许久的UPS
+![](https://imgbed.13061556.xyz/file/suisuinian/1771244697929_luyouqi.png)
+![](https://imgbed.13061556.xyz/file/suisuinian/1771244692031_nasbj.png)
 ## 2025年12月29日
 ~~看到V社要发布的Steam Machine很眼馋🤤，想要在客厅连电视打游戏🎮
 我刚好有一台闲置的游戏本，配置如下：~~
@@ -27,6 +38,13 @@
 - 关闭显示器自动切换输入源
 - 显示器切换没有输入信号的源
 显示器就显示无信号自动待机了🎉🎉🎉
+## 2025年12月27日
+我的塔斯汀菜单：
+- [ ] 香辣鸡腿中国汉堡
+- [ ] 藤椒鸡腿中国汉堡
+今天也是奢侈一把😭👉💴+￥3打开隐藏项：
+- [x] 香辣嫩鸡肉中国汉堡
+![](https://imgbed.13061556.xyz/file/suisuinian/1771246838237_tstxhb.jpg)
 ## 2025年12月25日
 ![](https://imgbed.13061556.xyz/file/suisuinian/1771243444172_steam2025.png)
 ## 2025年10月14日
