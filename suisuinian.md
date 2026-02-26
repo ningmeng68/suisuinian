@@ -49,6 +49,8 @@ BK650M2的说明书上确实说了，会有一个1分钟左右的延迟关机。
 ![](https://imgbed.13061556.xyz/file/suisuinian/1771246968143_tstxhb.jpg)
 ## 2025年12月25日
 ![](https://imgbed.13061556.xyz/file/suisuinian/1771243444172_steam2025.png)
+![](https://imgbed.13061556.xyz/file/suisuinian/1771243450293_steam2024.png)
+![](https://imgbed.13061556.xyz/file/suisuinian/1771243449794_steam2023.png)
 ## 2025年10月14日
 🍗太性感了！
 <iframe 
@@ -61,6 +63,3 @@ BK650M2的说明书上确实说了，会有一个1分钟左右的延迟关机。
     style="width: 100%; height: 100%;"
 ></iframe>
 ## 2024年12月25日
-![](https://imgbed.13061556.xyz/file/suisuinian/1771243450293_steam2024.png)
-## 2023年12月25日
-![](https://imgbed.13061556.xyz/file/suisuinian/1771243449794_steam2023.png)
