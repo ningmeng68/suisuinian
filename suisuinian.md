@@ -1,3 +1,5 @@
+## 置顶
+暂时没东西~
 ## 2026年2月16日
 ![](https://imgbed.13061556.xyz/file/suisuinian/1771247915275_hyyx.jpeg)
 ## 2026年2月9日
@@ -8,8 +10,7 @@
 ![](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmx0cXRnajF1dmFxdWNmYWphdGRrOG91bHMwMXBpaXdidjYzams1OCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GRk3GLfzduq1NtfGt5/giphy.gif)
 ## 2026年1月3日
 UPS到了，装上，测试好了。
-2分钟内市电恢复，无法触发来电自启也复现了。
-BK650M2的说明书上确实说了，会有一个1分钟左右的延迟关机。
+2分钟内市电恢复，无法触发来电自启也复现了。😔
 ![](https://imgbed.13061556.xyz/file/suisuinian/1771244695806_ups.jpg)
 ![](https://imgbed.13061556.xyz/file/suisuinian/1771244698688_nasqjf.jpg)
 ## 2026年1月1日
@@ -62,4 +63,3 @@ BK650M2的说明书上确实说了，会有一个1分钟左右的延迟关机。
     allowfullscreen="true" 
     style="width: 100%; height: 100%;"
 ></iframe>
-## 2024年12月25日
