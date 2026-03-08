@@ -1,5 +1,10 @@
 ## 置顶
 暂时没东西~
+## 2026年3月8日
+发现一款非常优秀的记账应用ezBookkeeping。
+从今天开始记账！
+官网：[https://ezbookkeeping.mayswind.net/](https://ezbookkeeping.mayswind.net/)
+项目：[https://github.com/mayswind/ezbookkeeping](https://github.com/mayswind/ezbookkeeping)
 ## 2026年2月16日
 ![](https://imgbed.13061556.xyz/file/suisuinian/1771247915275_hyyx.jpeg)
 ## 2026年2月9日
